@@ -1,0 +1,32 @@
+[
+  {
+    "remote": "slim",
+    "repository":  "device_qcom_common",
+    "target_path": "device/qcom/common",
+    "revision":      "kk4.4"
+  },
+  {
+    "remote": "slim",
+    "repository":  "device_motorola_qcom-common",
+    "target_path": "device/motorola/qcom-common",
+    "revision":      "kk4.4"
+  },
+  {
+    "remote": "slim",
+    "repository":  "device_motorola_msm8226-common",
+    "target_path": "device/motorola/msm8226-common",
+    "revision":      "kk4.4"
+  },
+  {
+    "remote": "slim",
+    "repository":  "kernel_motorola_msm8226",
+    "target_path": "kernel/motorola/msm8226",
+    "revision":      "kk4.4"
+  },
+  {
+    "remote": "tm",
+    "repository": "proprietary_vendor_motorola",
+    "target_path": "vendor/motorola",
+    "revision": "cm-11.0"
+  }
+]
